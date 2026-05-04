@@ -2,13 +2,13 @@
     "easy": [
         {
             "bgImageName": "Elephant",
-            "bgImagePath": "https://raw.githubusercontent.com/user/repo/main/images/elephant.png"
+            "bgImagePath": "https://raw.githubusercontent.com/consoleone1990-oss/coloring/refs/heads/main/BGImageEasy_003.png"
         }
     ],
     "hard": [
         {
             "bgImageName": "Mandala",
-            "bgImagePath": "https://raw.githubusercontent.com/user/repo/main/images/mandala.png"
+            "bgImagePath": "https://raw.githubusercontent.com/consoleone1990-oss/coloring/refs/heads/main/BGImageEasy_001.png"
         }
     ]
 }
