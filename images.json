@@ -1,0 +1,14 @@
+{
+    "easy": [
+        {
+            "bgImageName": "Elephant",
+            "bgImagePath": "https://raw.githubusercontent.com/user/repo/main/images/elephant.png"
+        }
+    ],
+    "hard": [
+        {
+            "bgImageName": "Mandala",
+            "bgImagePath": "https://raw.githubusercontent.com/user/repo/main/images/mandala.png"
+        }
+    ]
+}
